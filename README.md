@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inf1nityy</h1>
 <h3 align="center">determined programmer</h3>
 
-- 🔭 I’m currently working on [a chess game](https://github.com/Inf1nityy)
+- 🔭 I’m currently working on [a chess game](https://github.com/Inf1nityy/chess)
 
 - 🌱 I’m currently learning **C++, expressjs**
 
