@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Inf1nityy</h1>
 <h3 align="center">determined programmer</h3>
 
+- 🔭 I’m currently working on [a chess game](https://github.com/Inf1nityy)
+
 - 🌱 I’m currently learning **C++, expressjs**
 
 - ⚡ Fun fact **someone who suffers from "anatidaephobia" believes that somewhere, somehow a duck or goose is constantly watching them**
