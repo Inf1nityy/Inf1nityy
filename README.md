@@ -1,1 +1,16 @@
-![Metrics](https://metrics.lecoq.io/Inf1nityy?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC)
+<h1 align="center">Hi 👋, I'm Infinityy</h1>
+<h3 align="center">computer programmer</h3>
+
+<h3 align="left">About Me:</h3>
+
+- I love modding games and learning about how things work.
+
+- I’m currently maintaining [Nexia](https://github.com/nexia-cts)
+
+- You can contact me via discord: **notinfinityy**
+
+<h3 align="left">Stats:</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Inf1nityy&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inf1nityy&layout=compact&langs_count=8&theme=transparent" />
+</a>
