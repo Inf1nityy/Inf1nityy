@@ -1,11 +1,4 @@
-## About Me
+***dynamically programmed***
 
-Hello, I'm infinityy and I create various projects. I enjoy learning new things and am obsessed with understanding how things work at their core. My interests range from modding Minecraft to web development and low-level programming.
-
-## 📬 Contact
-- Discord: `notinfinityy`
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inf1nityy&layout=compact&langs_count=8&theme=transparent" />
-</a>
-
+[![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=Youtube&logoColor=white)](https://youtube.com/@notinfinityyy) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/uUC3zCZ2S7)
